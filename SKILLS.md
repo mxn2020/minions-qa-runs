@@ -1,6 +1,12 @@
 ---
 name: minions-qa-runs
-description: Test execution records, assertion results, and pass/fail tracking across clawspaces
+id: OC-0150
+version: 1.0.0
+description: "Test execution records, assertion results, and pass/fail tracking across clawspaces"
+category: dev-tools
+subcategory: testing
+tags: ["minion", "dev-tools", "testing"]
+comments:
 ---
 
 # minions-qa-runs — Agent Skills
