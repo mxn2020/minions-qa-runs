@@ -6,3 +6,4 @@ description: "Test execution records, assertion results, and pass/fail tracking 
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
