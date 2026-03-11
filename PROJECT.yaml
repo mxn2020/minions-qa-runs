@@ -1,0 +1,15 @@
+name: minions-qa-runs-workspace
+project_scope: main
+project_type: monorepo
+description: "Test execution records, assertion results, and pass/fail tracking across clawspaces"
+tier: idea
+lane: minions
+priority: medium
+oss: true
+stack: [typescript]
+repo: "https://github.com/mxn2020/minions-qa-runs"
+deploy_url: null
+last_active: 2026-02-23
+tags: [minion, toolbox, ai-agent, automation, minions, qa, runs]
+notes: null
+id: 8a84e2e2-c699-40d4-bd63-16d0761905b7

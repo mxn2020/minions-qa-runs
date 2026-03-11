@@ -1,0 +1,8 @@
+name: "@minions-qa-runs/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-qa-runs-workspace
+description: "Test execution records, assertion results, and pass/fail tracking across clawspaces"
+priority: high
+deploy_url: null
+tags: null
