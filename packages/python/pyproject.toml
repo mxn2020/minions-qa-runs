@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-qa-runs"
-version = "0.1.0"
+version = "0.2.0"
 description = "Test execution records, assertion results, and pass/fail tracking across clawspaces"
 readme = "README.md"
 license = { text = "MIT" }
